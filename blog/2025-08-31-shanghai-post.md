@@ -1,7 +1,6 @@
 ---
 slug: eric-blog-post
 title: Eric Shanghai Blog Post
-authors: ericwangd1
 tags: [hello, docusaurus]
 ---
 
