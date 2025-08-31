@@ -1,0 +1,2 @@
+# eric-website
+Docusaurus website
