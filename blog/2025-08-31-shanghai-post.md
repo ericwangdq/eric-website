@@ -1,10 +1,10 @@
 ---
 slug: eric-blog-post
-title: Eric Shanghai Blog Post
+title: Eric Shanghai Blog
 tags: [hello, docusaurus]
 ---
 
-# Shanghai: A City of Contrasts
+# Shanghai: A Beautiful City
 
 ## Arrival in Shanghai
 
