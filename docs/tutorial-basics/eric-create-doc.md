@@ -8,9 +8,9 @@ Docusaurus creates a **page for each blog post**, but also a **blog index page**
 
 ## Create your first Post
 
-Create a file at `blog/eric-create-doc.md`:
+Create a file at `/eric-website/docs/tutorial-basics/eric-create-doc`:
 
-```md title="blog/eric-create-doc.md"
+```md title="/eric-website/docs/tutorial-basics/eric-create-doc"
 ---
 slug: greetings
 title: Greetings!
@@ -31,4 +31,4 @@ Congratulations, you have made your first post!
 Feel free to play around and edit this post as much as you like.
 ```
 
-A new blog post is now available at [/blog/eric-create-doc.md](/blog/eric-create-doc.md).
+A new blog post is now available at [/blog/eric-create-doc.md](/eric-website/docs/tutorial-basics/eric-create-doc).
