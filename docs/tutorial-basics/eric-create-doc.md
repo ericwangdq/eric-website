@@ -2,11 +2,11 @@
 sidebar_position: 4
 ---
 
-# Create a Blog Post
+# Eric Blog Post
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
-## Create your first Post
+## Create eric first Post
 
 Create a file at `/eric-website/docs/tutorial-basics/eric-create-doc`:
 
@@ -31,4 +31,4 @@ Congratulations, you have made your first post!
 Feel free to play around and edit this post as much as you like.
 ```
 
-A new blog post is now available at [/blog/eric-create-doc.md](/eric-website/docs/tutorial-basics/eric-create-doc).
+A new blog post is now available at [/eric-website/docs/tutorial-basics/eric-create-doc](/eric-website/docs/tutorial-basics/eric-create-doc).
