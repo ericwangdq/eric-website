@@ -57,20 +57,6 @@ Choose by constraints: ecosystem & libraries → React; max runtime perf → Sol
 
 A minimal "island" pattern pseudocode (conceptual):
 
-```jsx
-// server-rendered shell (pseudo)
-<html>
-  <body>
-    <main>
-      <!-- static content rendered on server -->
-      <h1>Product</h1>
-      <div id="cart-island"><!-- serialized island state --></div>
-    </main>
-    <script type="module" src="/bootstrap-cart.js"></script>
-  </body>
-</html>
-```
-
 bootstrap-cart.js hydrates only the cart island and resumes interactivity without shipping full app runtime.
 
 ## Accessibility & performance checklist
