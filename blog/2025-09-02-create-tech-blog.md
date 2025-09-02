@@ -16,6 +16,8 @@ Frontend UI is converging around performance-first patterns: smaller runtime, ed
 - Edge and server components become default for fast first paint and SEO.
 - Tooling optimized for dev DX and monorepos (incremental builds, remote caches).
 
+<!-- truncate -->
+
 ## Key technologies and patterns
 
 ### Component frameworks

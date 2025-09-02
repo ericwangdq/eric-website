@@ -14,6 +14,8 @@ Landing in Shanghai, I was immediately struck by the city’s energy. The blend 
 
 Walking along the Bund, I admired the colonial-era architecture on one side and the modern skyline of Pudong on the other. The Huangpu River divides the city, symbolizing Shanghai’s fusion of old and new.
 
+<!-- truncate -->
+
 ## Local Cuisine
 
 Shanghai’s food scene is vibrant. I tried _xiaolongbao_ (soup dumplings) at a local restaurant—delicate, flavorful, and unforgettable. Street vendors offered snacks like _jianbing_ and grilled skewers.
