@@ -2,7 +2,6 @@
 slug: eric-tech-post
 title: Introducing the Latest Frontend UI Technologies (2025)
 tags: [hello, docusaurus]
-summary: "A concise introduction to the most important frontend UI trends and technologies in 2025 — component models, rendering strategies, styling, state, tooling, and practical migration tips."
 ---
 
 ## Why now
