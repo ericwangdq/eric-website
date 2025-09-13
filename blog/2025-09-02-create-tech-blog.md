@@ -5,3 +5,5 @@ tags: [hello, docusaurus]
 ---
 
 Frontend UI is converging around performance-first patterns: smaller runtime, edge/SSR-first architectures, fine-grained reactivity, and platform CSS feature adoption (container queries, nesting). This post gives a compact map to make practical decisions in 2025.
+
+<!-- truncate -->
