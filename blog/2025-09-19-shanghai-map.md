@@ -1,6 +1,6 @@
 ---
 slug: shanghai-map-post
-title: Visiting the Shanghai Museum of Art and Photography (MAP)
+title: Visiting the Shanghai MAP
 tags: [hello, docusaurus]
 ---
 
