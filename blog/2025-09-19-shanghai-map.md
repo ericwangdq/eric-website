@@ -4,7 +4,7 @@ title: Visiting the Shanghai Museum of Art and Photography (MAP)
 tags: [hello, docusaurus]
 ---
 
-# Exploring Shanghai: A Guide to Visiting the Shanghai Museum of Art and Photography (MAP)
+## Exploring Shanghai: A Guide to Visiting the Shanghai Museum of Art and Photography (MAP)
 
 Shanghai is a city that seamlessly blends tradition and modernity, and nowhere is this more evident than at the Shanghai Museum of Art and Photography (MAP). Whether you're an art enthusiast or a casual traveler, MAP offers a unique cultural experience in the heart of the city.
 
