@@ -1,6 +1,5 @@
 ---
 slug: shanghai-gate-m
-title: Visiting the Shanghai MAP
 title: Enjoying Gate M on Notional Day
 tags: [hello, docusaurus]
 ---
@@ -14,6 +13,8 @@ Xuhui Gate M is a compact, lively corner of Xuhui that feels especially good on 
 - Arrive early (8:00–10:00) to avoid peak crowds and catch softer morning light.
 - Start with a coffee from a nearby independent café. A small sit and people-watch sets the right pace.
 - Walk the nearby streets to take in façades and small alleyway shops — Gate M’s scale is best appreciated on foot.
+
+<!-- truncate -->
 
 ## Midday highlights
 
